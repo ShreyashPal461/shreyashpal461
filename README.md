@@ -80,7 +80,7 @@
 
 ## 🧠 LeetCode Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyash_pal?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyash_pal?theme=dark&font=baloo&ext=heatmap&v=1)
 
 ---
 
