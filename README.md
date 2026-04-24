@@ -86,7 +86,6 @@
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shreyash_pal&theme=dark)
 
-![LeetCode Activity](https://leetcode-activity-stats.vercel.app/graph?username=Shreyash_pal&theme=dark)
 
 ---
 
