@@ -80,7 +80,13 @@
 
 ## 🧠 LeetCode Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyash_pal?theme=dark&font=baloo&ext=heatmap&v=1)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Shreyash_pal/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyash_pal?theme=dark&font=baloo&ext=heatmap)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shreyash_pal&theme=dark)
+
+![LeetCode Activity](https://leetcode-activity-stats.vercel.app/graph?username=Shreyash_pal&theme=dark)
 
 ---
 
