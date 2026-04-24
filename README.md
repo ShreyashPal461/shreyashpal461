@@ -91,10 +91,11 @@
 
 ## ⚡ Currently Working On:
 
-🔹 Improving Data Structures & Algorithms  
-🔹 Building Full Stack Projects  
-🔹 Learning Cybersecurity Fundamentals  
-🔹 Contributing to Open Source  
+🔹 Improving Data Structures & Algorithms (DSA)  
+🔹 Building Full Stack Projects (React, Node.js, Spring Boot)  
+🔹 Learning System Design & Backend Architecture  
+🔹 Exploring DevOps tools (Docker, Kubernetes)  
+🔹 Contributing to Open Source   
 
 ---
 
